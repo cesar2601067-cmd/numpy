@@ -50,6 +50,7 @@ Procesamiento digital de imágenes: cómo una fotografía se representa como una
 ### Dependencias Principales
 * **NumPy** (`numpy`): cálculo numérico y arreglos multidimensionales.
 * **Matplotlib** (`matplotlib`): lectura, procesamiento y visualización de imágenes.
+* **Pandas** (`pandas`): organización de los píxeles RGB en un DataFrame.
 * **Jupyter** (`notebook` / `jupyterlab`): ejecución de libretas interactivas.
 
 ### Configuración del Entorno
@@ -70,7 +71,7 @@ Procesamiento digital de imágenes: cómo una fotografía se representa como una
 
 3. **Instalar dependencias** (entorno nuevo o limpio):
    ```bash
-   pip install numpy matplotlib notebook
+   pip install numpy matplotlib pandas notebook
    ```
 
 4. **Iniciar Jupyter:**
